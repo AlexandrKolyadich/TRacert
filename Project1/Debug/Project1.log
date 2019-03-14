@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\sanya\desktop\новая папка\project1\project1\source.cpp(135): warning C4101: printIP: неиспользованная локальная переменная
+c:\users\sanya\desktop\новая папка\project1\project1\source.cpp(136): warning C4101: sendHdr: неиспользованная локальная переменная
+  Project1.vcxproj -> C:\Users\Sanya\Desktop\Новая папка\Project1\Debug\Project1.exe
