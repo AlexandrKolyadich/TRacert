@@ -187,7 +187,7 @@ int main(int argc, char *argv[])
 						endOfTracert = TRUE;
 					}
 					Out(&sets, flagPrintIP);//
-					//printf("sdfsdf");
+					
 				}
 			}
 			counterPingPack++;
